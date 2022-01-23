@@ -1,0 +1,6 @@
+    AccountEmail              = "abdul.kunnummal+sandbox@gmail.com"
+    AccountName               = "sandbox-01"
+    ManagedOrganizationalUnit = "Learn AFT"
+    SSOUserEmail              = "akunnummal@cc-demos.com"
+    SSOUserFirstName          = "Sandbox"
+    SSOUserLastName           = "01"
