@@ -22,6 +22,10 @@
 # Icon must end with two \r
 Icon
 
+#terraform vars
+*.tfvars
+*.tfstate
+*.tfstate.*
 
 # Thumbnails
 ._*
